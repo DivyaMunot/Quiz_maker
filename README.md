@@ -18,6 +18,6 @@ PHP, HTML, CSS, MYSQL, Xampp
 
 ![signin]
 
-![quizpage]
+![quizpage](https://github.com/DivyaMunot/Quiz_maker/blob/master/quiz_page.png)
 
 ![results]
