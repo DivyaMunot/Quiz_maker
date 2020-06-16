@@ -16,8 +16,8 @@ PHP, HTML, CSS, MYSQL, Xampp
 
 ## Screenshots
 
-![signin]
+[signin]
 
-![quizpage](https://github.com/DivyaMunot/Quiz_maker/blob/master/quiz_page.png)
+[quizpage](https://github.com/DivyaMunot/Quiz_maker/blob/master/quiz_page.png)
 
-![results]
+[results](https://github.com/DivyaMunot/Quiz_maker/blob/master/result.png)
