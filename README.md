@@ -15,3 +15,9 @@ The Quiz Maker can accommodate any number of required questions with multiple ch
 PHP, HTML, CSS, MYSQL, Xampp
 
 ## Screenshots
+
+![signin]
+
+![quizpage]
+
+![results]
